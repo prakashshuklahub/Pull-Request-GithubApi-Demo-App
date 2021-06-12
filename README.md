@@ -24,7 +24,7 @@ Proudly 💪 made in Kotlin
 </thead>
 <tbody>
 <tr>
-<td> <img src="app/src/main/res/drawable/1.png" width="150" ></td>
+<td> <img src="app/src/main/res/drawable/1.jpg" width="400" ></td>
 
 </tr>
 </tbody>
