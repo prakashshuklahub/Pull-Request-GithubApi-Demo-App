@@ -18,16 +18,14 @@ Proudly 💪 made in Kotlin
 <table>
 <thead>
 <tr>
-<th align="center">Add Notes</th>
-<th align="center">Edit Notes</th>
-<th align="center">Delete Notes</th>
+<th align="center">List of all closed pull request</th>
+
 </tr>
 </thead>
 <tbody>
 <tr>
-<td> <img src="app/src/main/res/drawable/add.gif" width="150" ></td>
-<td> <img src="app/src/main/res/drawable/edit2.gif" width="150" ></td>
-<td> <img src="app/src/main/res/drawable/delete.gif" width="150" ></td>
+<td> <img src="app/src/main/res/drawable/1.png" width="150" ></td>
+
 </tr>
 </tbody>
 </table>
