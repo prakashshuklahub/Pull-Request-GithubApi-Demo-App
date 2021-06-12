@@ -4,7 +4,7 @@
 
 This is a demo app using github api. We are fetching all the closed pull request of this repository.
 
-Proudly 💪 made in Kotlin
+Proudly 💪  made in Kotlin
 
 <h4>Features</h4>
 <ul>
